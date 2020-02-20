@@ -1,0 +1,19 @@
+NVL-CSS-P3a
+
+	h1{
+		color:white;
+		background-color: black;
+		border:1px solid red;
+	}
+	h3{
+		color:black;
+		background-color:grey;
+		border:1px solid black;
+	}
+	ol{
+		color: black;
+		border:1px solid blue;
+	}
+	p{
+		color: orange;	
+	}
